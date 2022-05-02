@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 [comment]: <>(- 😄 Pronouns: ...)
 [comment]: <>(- ⚡ Fun fact: ...)
 -->
-<a href="https://app.daily.dev/v01d13"><img src="https://api.daily.dev/devcards/195354f71f8c4b62b60d2fa99eb09e45.png?r=mzi" width="400" alt="v01d13's Dev Card"/></a>
+<a href="https://app.daily.dev/v01d13"><img src="https://api.daily.dev/devcards/195354f71f8c4b62b60d2fa99eb09e45.png?r=mzi" width="300" height="400" alt="v01d13's Dev Card"/></a>
